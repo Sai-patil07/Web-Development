@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Menu card</title>
+</head>
+<body>
+<table border = 1 align = "center">
+<caption>Menu</caption>
+<tr bgcolor = "violet">
+<th>sr.no</th>
+<th>Veg/NonVeg</th>
+<th>menu</th>
+<th>price</th>
+</tr>
+<tr>
+<td rowspan=3>1.</td>
+<td rowspan=3>veg</td>
+<td>Butter Panner</td>
+<td>100</td>
+<tr rowspan=2>
+<td>Palak Panner</td>
+<td>150</td>
+<tr rowspan=2>
+<td>Misal pav</td>
+<td>60</td>
+</tr>
+</tr>
+<tr>
+<td rowspan=2>2.</td>
+<td rowspan=2>Nonveg</td>
+<td>Butter chikan</td>
+<td>150</td>
+<tr rowspan=2>
+<td>Egg curry</td>
+<td>120</td>
+</tr>
+</tr>
+</table>
+</body>
+</html>
